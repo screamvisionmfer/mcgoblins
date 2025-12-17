@@ -1,0 +1,27 @@
+/* Add these classes to your globals (copy/paste). If you already have them, ignore. */
+:root{ --accent: 255,77,77; }
+
+.btn-console{
+  display:inline-flex;align-items:center;justify-content:center;
+  padding:10px 14px;border-radius:14px;
+  background:rgba(255,255,255,.10);
+  border:1px solid rgba(255,255,255,.14);
+  backdrop-filter: blur(10px);
+  transition: transform .15s ease, background .15s ease, border-color .15s ease;
+  font-weight:600;
+}
+.btn-console:hover{ transform: translateY(-1px); background:rgba(255,255,255,.14); border-color:rgba(255,255,255,.22); }
+.btn-console:active{ transform: translateY(0px) scale(.99); }
+
+.btn-console--ghost{
+  background:rgba(0,0,0,.0);
+  border:1px solid rgba(255,255,255,.14);
+}
+.btn-console--ghost:hover{ background:rgba(255,255,255,.08); }
+
+.road-item{ display:flex; gap:10px; align-items:flex-start; opacity:.9; line-height:1.45; }
+.road-bullet{ margin-top:7px; height:10px; width:10px; border-radius:999px;
+  background: rgb(var(--accent));
+  box-shadow: 0 0 22px rgba(var(--accent), .45);
+  flex: 0 0 auto;
+}
