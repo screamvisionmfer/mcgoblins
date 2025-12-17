@@ -1,6 +1,6 @@
 const LINKS = {
   x: "https://x.com/scream_vision",
-  vibemarket: "#", // TODO: replace with your VibeMarket URL
+  vibemarket: "https://vibechain.com/market/mcgoblins?ref=B3FLA1AGGOH2", // TODO: replace with your VibeMarket URL
 };
 
 function ButtonShell({
