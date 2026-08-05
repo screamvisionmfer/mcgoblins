@@ -10,8 +10,8 @@ const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono" });
 const pixel = Press_Start_2P({ subsets: ["latin"], weight: "400", variable: "--font-pixel" });
 
 export const metadata = {
-  title: "McGoblins — 666 PFP Card Collection",
-  description: "Explore the 666-piece McGoblins PFP card collection on OpenSea.",
+  title: "McGoblins — 666 PFP Collection on Robinhood Chain",
+  description: "Explore the 666-piece McGoblins PFP collection on Robinhood Chain, available on OpenSea.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

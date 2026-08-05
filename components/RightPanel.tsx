@@ -47,7 +47,7 @@ export default function RightPanel() {
       <ButtonShell
         href={LINKS.opensea}
         title="OPENSEA"
-        subtitle="Explore the 666-piece collection"
+        subtitle="666 PFPs on Robinhood Chain"
         accent
       />
     </div>
