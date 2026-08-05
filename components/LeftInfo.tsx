@@ -5,8 +5,8 @@ export default function LeftInfo() {
         McGoblins
       </h1>
       <p className="text-white/70 leading-relaxed">
-        A 666-piece punk goblin PFP card collection.
-        Street goblins. Basement energy. Available exclusively on OpenSea.
+        A 666-piece punk goblin PFP collection on Robinhood Chain.
+        Street goblins. Basement energy. Available on OpenSea.
       </p>
     </div>
   );
