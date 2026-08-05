@@ -6,7 +6,7 @@ export default function LeftPanel() {
       <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.04] px-4 py-2 shadow-neon mx-auto lg:mx-0">
         <span className="h-1.5 w-1.5 rounded-full bg-fuchsia-400/90 shadow-[0_0_18px_rgba(217,70,239,0.65)]" />
         <span className="font-[var(--font-mono)] text-[11px] tracking-[0.22em] text-white/70">
-          PFP CARD COLLECTION • CHAPTER I
+          666 PFP CARDS • OPEN ON OPENSEA
         </span>
       </div>
 
@@ -23,13 +23,12 @@ export default function LeftPanel() {
 
       <div className="mt-6 space-y-4 text-white/75 leading-relaxed">
         <p>
-          McGoblins is a 777-piece PFP drop — a clubhouse for punk goblins,
+          McGoblins is a 666-piece PFP card collection for punk goblins,
           basement anarchists and street troublemakers.
         </p>
         <p>
-          This is Chapter I on VibeMarket. If the bonding curve hits 100%,
-          we start building Chapter II: a 6,666-supply OpenSea collection.
-          Early holders from the first chapter get free whitelist art.
+          Meet the full crew, explore every card and collect your favorite
+          McGoblin exclusively on OpenSea.
         </p>
       </div>
 
@@ -38,13 +37,13 @@ export default function LeftPanel() {
           <div className="font-[var(--font-mono)] text-[11px] tracking-[0.22em] text-white/55">
             SUPPLY
           </div>
-          <div className="mt-2 text-2xl font-semibold text-white/90">777</div>
+          <div className="mt-2 text-2xl font-semibold text-white/90">666</div>
         </div>
         <div className="rounded-2xl border border-white/10 bg-white/[0.03] p-4">
           <div className="font-[var(--font-mono)] text-[11px] tracking-[0.22em] text-white/55">
-            NEXT CHAPTER
+            MARKETPLACE
           </div>
-          <div className="mt-2 text-2xl font-semibold text-white/90">6,666</div>
+          <div className="mt-2 text-2xl font-semibold text-white/90">OpenSea</div>
         </div>
       </div>
     </div>
