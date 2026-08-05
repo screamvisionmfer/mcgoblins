@@ -65,7 +65,7 @@ body::before {
   filter: blur(18px);
 }
 
-/* Vibemarket button glow */
+/* OpenSea button glow */
 @keyframes vibeGlow {
   0% {
     box-shadow:
@@ -79,7 +79,7 @@ body::before {
   }
 }
 
-.vibemarket-glow {
+.opensea-glow {
   animation: vibeGlow 2.4s ease-in-out infinite alternate;
   border-color: rgba(255, 215, 0, 0.45) !important;
   background: rgba(255, 215, 0, 0.08) !important;
