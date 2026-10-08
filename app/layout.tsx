@@ -10,8 +10,8 @@ const mono = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono" });
 const pixel = Press_Start_2P({ subsets: ["latin"], weight: "400", variable: "--font-pixel" });
 
 export const metadata = {
-  title: "McGoblins — 666 PFP Collection on Robinhood Chain",
-  description: "Explore the 666-piece McGoblins PFP collection on Robinhood Chain, available on OpenSea.",
+  title: "McGoblins — 2222 Artworks | Zaibatsu Wagies Drop",
+  description: "2222 unique McGoblins artworks on Robinhood Chain. Explore the McGoblins drop on Zaibatsu Wagies.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

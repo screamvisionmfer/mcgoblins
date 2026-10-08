@@ -1,5 +1,5 @@
 const LINKS = {
-  opensea: "https://opensea.io/collection/mcgoblinsonhood",
+  drop: "https://zaibatsuwagies.com/",
 };
 
 function ButtonShell({
@@ -45,9 +45,9 @@ export default function RightPanel() {
   return (
     <div className="w-full flex flex-col items-stretch gap-3 lg:items-end lg:w-[min(380px,24vw)]">
       <ButtonShell
-        href={LINKS.opensea}
-        title="OPENSEA"
-        subtitle="666 PFPs on Robinhood Chain"
+        href={LINKS.drop}
+        title="ZAIBATSU WAGIES"
+        subtitle="Explore the drop • 2222 unique artworks"
         accent
       />
     </div>

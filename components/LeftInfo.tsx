@@ -5,8 +5,8 @@ export default function LeftInfo() {
         McGoblins
       </h1>
       <p className="text-white/70 leading-relaxed">
-        A 666-piece punk goblin PFP collection on Robinhood Chain.
-        Street goblins. Basement energy. Available on OpenSea.
+        A collection of 2222 unique punk goblin artworks on Robinhood Chain.
+        Street goblins. Basement energy. Dropping on Zaibatsu Wagies.
       </p>
     </div>
   );

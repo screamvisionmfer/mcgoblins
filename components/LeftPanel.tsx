@@ -6,7 +6,7 @@ export default function LeftPanel() {
       <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.04] px-4 py-2 shadow-neon mx-auto lg:mx-0">
         <span className="h-1.5 w-1.5 rounded-full bg-fuchsia-400/90 shadow-[0_0_18px_rgba(217,70,239,0.65)]" />
         <span className="font-[var(--font-mono)] text-[11px] tracking-[0.22em] text-white/70">
-          666 PFP COLLECTION • ROBINHOOD CHAIN
+          2222 PFP COLLECTION • ROBINHOOD CHAIN
         </span>
       </div>
 
@@ -23,12 +23,12 @@ export default function LeftPanel() {
 
       <div className="mt-6 space-y-4 text-white/75 leading-relaxed">
         <p>
-          McGoblins is a 666-piece PFP collection on Robinhood Chain for punk
+          McGoblins is a collection of 2222 unique artworks on Robinhood Chain for punk
           goblins, basement anarchists and street troublemakers.
         </p>
         <p>
-          Meet the full crew, explore the collection and collect your favorite
-          McGoblin on OpenSea.
+          The McGoblins drop is on Zaibatsu Wagies. Meet the full crew and
+          find your favorite McGoblin.
         </p>
       </div>
 
@@ -37,7 +37,7 @@ export default function LeftPanel() {
           <div className="font-[var(--font-mono)] text-[11px] tracking-[0.22em] text-white/55">
             SUPPLY
           </div>
-          <div className="mt-2 text-2xl font-semibold text-white/90">666</div>
+          <div className="mt-2 text-2xl font-semibold text-white/90">2222</div>
         </div>
         <div className="rounded-2xl border border-white/10 bg-white/[0.03] p-4">
           <div className="font-[var(--font-mono)] text-[11px] tracking-[0.22em] text-white/55">
